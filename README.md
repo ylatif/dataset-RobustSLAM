@@ -14,6 +14,9 @@ Each sequence is contained in a directory representing the sequence number (00,0
 
 
 
-- [1]: [](http://www.cvlibs.net/datasets/kitti/eval_odometry.php)
-- [2]: [](http://www.cvlibs.net/software/libviso/)
-- [3]: [](http://webdiis.unizar.es/~dorian/index.php?p=33)
+- [1]: [http://www.cvlibs.net/datasets/kitti/eval_odometry.php](http://www.cvlibs.net/datasets/kitti/eval_odometry.php)
+- [2]: [http://www.cvlibs.net/software/libviso/](http://www.cvlibs.net/software/libviso/)
+- [3]: [http://webdiis.unizar.es/~dorian/index.php?p=33](http://webdiis.unizar.es/~dorian/index.php?p=33)
+
+
+For any queries and/or suggestions please email me : ylatif [AT] unizar dot es
